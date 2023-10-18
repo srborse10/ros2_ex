@@ -1,0 +1,8 @@
+float32[] a
+int32[] a_shape
+float32[] b
+int32[] b_shape
+---
+float32[] product
+int32[] product_shape
+string error_message
